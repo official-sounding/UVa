@@ -32,7 +32,7 @@ public class UVa706 {
 		
 		char[] teststring = new char[1000];
 		Arrays.fill(teststring, '8');
-		int scalingfactor = 99;
+		int scalingfactor = 2;
 
 		printSevenSeg(teststring,scalingfactor);
 	}
